@@ -1,0 +1,63 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     1120 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\hayde\OneDrive\Documents\One Month Game\Testing out 1.2 touch feature_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.294832 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.722141 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 485.
+Total: 1.216854 ms (FindLiveObjects: 0.032000 ms CreateObjectMapping: 0.020906 ms MarkObjects: 0.292693 ms  DeleteObjects: 0.870401 ms)
+
+Hit an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.642668 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 485.
+Total: 0.331520 ms (FindLiveObjects: 0.030293 ms CreateObjectMapping: 0.020906 ms MarkObjects: 0.274347 ms  DeleteObjects: 0.005120 ms)
+
+Hit an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.013015 ms
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.994987 ms (FindLiveObjects: 0.042240 ms CreateObjectMapping: 0.028586 ms MarkObjects: 0.220586 ms  DeleteObjects: 0.703147 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37e0 -> priority: 1 
